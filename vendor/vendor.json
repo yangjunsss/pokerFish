@@ -1,0 +1,43 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Irn4Vk2RYWN9SisfALiqbWFbwrU=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "78fb3852d92683dc28da6cc3d5f965100677c27d",
+			"revisionTime": "2019-01-11T19:22:21Z"
+		},
+		{
+			"checksumSHA1": "KRlS8eQZGK1oYVCOkIvcMDXabxk=",
+			"path": "github.com/urfave/cli",
+			"revision": "b67dcf995b6a7b7f14fad5fcb7cc5441b05e814b",
+			"revisionTime": "2018-10-29T21:32:00Z"
+		},
+		{
+			"checksumSHA1": "BSPDVKviqHQaG2phOFN690zAKB8=",
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": "ff983b9c42bc9fbf91556e191cc8efb585c16908",
+			"revisionTime": "2018-07-25T11:53:45Z"
+		},
+		{
+			"checksumSHA1": "Ls+gFAmwGpsa3vQGqG92U66qgp0=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "48ac38b7c8cbedd50b1613c0fccacfc7d88dfcdf",
+			"revisionTime": "2019-01-09T08:27:30Z"
+		},
+		{
+			"checksumSHA1": "Y7nctMxT58lRM78VtElPerhcnEs=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "48ac38b7c8cbedd50b1613c0fccacfc7d88dfcdf",
+			"revisionTime": "2019-01-09T08:27:30Z"
+		},
+		{
+			"checksumSHA1": "QqDq2x8XOU7IoOR98Cx1eiV5QY8=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "51d6538a90f86fe93ac480b35f37b2be17fef232",
+			"revisionTime": "2018-11-15T11:05:04Z"
+		}
+	],
+	"rootPath": "github.com/yangjunsss/pokerFish"
+}
